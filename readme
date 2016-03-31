@@ -1,1 +1,1 @@
-git branch -d feature1
+--no-ff
